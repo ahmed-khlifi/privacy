@@ -1,0 +1,48 @@
+Privacy Policy.
+
+
+Thank you for using our mobile application. This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal information when you use our mobile application Laha Bazaar and its related services.
+
+Information We Collect
+1.1 Personal Information
+We may collect personal information that you provide directly through the App, including but not limited to:
+Name
+Email address
+Phone number
+Billing and shipping address
+Profile picture
+1.2 Payment Information
+If you choose to subscribe to our in-app subscription service, we may collect payment information, such as credit card details or other payment method information. However, we do not store this information on our servers. It is securely processed and handled by our payment service providers.
+
+1.3 Camera and Media Access
+To enable sellers to upload product images, the App requests access to your device's camera and media gallery. This permission allows you to take pictures and select images to be associated with the products you want to sell. We do not access or store any media content from your device unless you choose to upload it within the App.
+
+1.4 Messaging Information
+When users buy products on our marketplace, the communication between buyers and sellers takes place through messages sent within the App. We may collect and store these messages to facilitate the transaction and resolve any disputes that may arise.
+
+Use of Information
+We use the collected information for the following purposes:
+To provide and maintain the App's functionality and services.
+To process and fulfill transactions between buyers and sellers.
+To personalize and improve user experience within the App.
+To communicate with you regarding updates, offers, and promotions.
+To respond to your customer service requests and inquiries.
+To enforce our policies and terms of service.
+Sharing of Information
+We may share your personal information in the following circumstances:
+With sellers to facilitate the completion of transactions.
+With service providers, contractors, and other third parties who assist us in operating our business and delivering services, subject to their agreement to maintain the confidentiality of your information.
+With law enforcement or regulatory authorities as required by law or to protect our legal rights.
+Data Security
+We take reasonable measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction. However, no data transmission or storage system can be guaranteed to be 100% secure. We cannot ensure the security of any information you transmit to us or store in connection with the App.
+
+Third-Party Services
+The App may contain links to third-party websites, services, or advertisements. We are not responsible for the privacy practices of these third parties, and you should review their respective privacy policies.
+
+Updates to Privacy Policy
+We reserve the right to update or modify this Privacy Policy at any time. Please review this policy periodically for any changes. Your continued use of the App after any modifications signifies your acceptance of the updated Privacy Policy.
+
+Contact Us
+If you have any questions, concerns, or suggestions regarding this Privacy Policy, please contact us at info@lahabazaar.com.
+
+By using the Laha Bazaar App, you agree to the terms and conditions of this Privacy Policy.
